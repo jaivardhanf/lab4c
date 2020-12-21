@@ -1,0 +1,22 @@
+NAME: Jai Vardhan Fatehpuria
+EMAIL: jaivardhan.f@gmail.com
+ID: 804817305
+
+DISCLAIMER: I would like to thank William Randall for letting me use his beagle bone. 
+
+S/N: BBGW18040074
+MAC: 2CF7F1068F49
+
+The distribution tarball contains the following files:
+
+lab4c_tcp.c: C program that build and runs on a Beaglebone. Reads temperature values from a sensor and sends them to a server through a TCP connection. 
+
+lab4c_tls.c: C program that builds and runs on Beaglebone. Opens a TLS connection to a server and communicates with it in the same way as above.
+
+Makefile: 
+Clean, default, dist etc
+
+Sources:
+Beaglebone documentation
+Mraa documentations 
+
